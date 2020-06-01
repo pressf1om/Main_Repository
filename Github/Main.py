@@ -8,7 +8,7 @@ START_NUMBER_2 = '+7'
 START_NUMBER_3 = '+3'
 
 # TOKEN
-TOKEN = "1092936914:AAELjxnU98vONyCFH29z9Sp8FxPyOnUbL8I"
+TOKEN = "You token"
 bot = telebot.TeleBot(TOKEN)
 
 # keyboard
